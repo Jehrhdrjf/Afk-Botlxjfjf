@@ -181,3 +181,6 @@ function circleWalk(bot, radius) {
 }
 
 createBot();
+
+
+const keep_alive = require('./keep_alive.js')
